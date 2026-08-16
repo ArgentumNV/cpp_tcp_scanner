@@ -1,0 +1,3 @@
+/home/nv/Desktop/cpp_tcp_scanner/build/CMakeFiles/scanner.dir
+/home/nv/Desktop/cpp_tcp_scanner/build/CMakeFiles/edit_cache.dir
+/home/nv/Desktop/cpp_tcp_scanner/build/CMakeFiles/rebuild_cache.dir
